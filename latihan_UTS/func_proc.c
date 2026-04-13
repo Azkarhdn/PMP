@@ -40,4 +40,5 @@ int main (){
     printf("Jumlah lulus : %d\n", lulus);
     printf("Nilai maks : %d\n", maks);
     return 0;
+    //ini mau coba test ke git
 }
