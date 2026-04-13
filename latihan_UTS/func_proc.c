@@ -41,4 +41,6 @@ int main (){
     printf("Nilai maks : %d\n", maks);
     return 0;
     //ini mau coba test ke git
+    //test 2
+    //test semoga bener
 }
