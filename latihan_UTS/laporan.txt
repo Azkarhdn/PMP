@@ -1,0 +1,4 @@
+Total Pemasukan Rp120000
+Total Pengeluaran Rp30000
+Saldo Akhir Rp90000
+Status = AMAN
